@@ -1,6 +1,6 @@
 # Face recognition app using Streamlit
 
-This is a face recognition application built using Python, [Face-Recognition API](https://github.com/ageitgey/face_recognition) and Streamlit framework. The app allows users to upload an image containing faces and performs face recognition using the face recognition library.
+This is a face recognition application built using Python, [Face-Recognition API](https://github.com/Sidarath-Gupta/Face-recognition-system-using-streamlit) and Streamlit framework. The app allows users to upload an image containing faces and performs face recognition using the face recognition library.
 
 ## Features
 
@@ -13,21 +13,6 @@ This is a face recognition application built using Python, [Face-Recognition API
 - Python 3.9
 - Streamlit 1.22.0
 - face_recognition 
-
-## Repository structure
-```bash
-├───dataset
-│   │───ID_Name.jpg
-│   │───...
-├───pages
-│   ├───1_🔧_Updating.py
-│   └───2_💾_Database
-├───Tracking.py
-│───utils.py
-├───config.yaml 
-├───requirements.txt
-├───packages.txt
-└───README.md
 ```
 
 ## Description
@@ -44,7 +29,7 @@ This is a face recognition application built using Python, [Face-Recognition API
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/datct00/Face-recognition-app-using-Streamlit.git
+git clone https://github.com/Sidarath-Gupta/Face-recognition-system-using-streamlit.git
 cd Face-recognition-app-using-Streamlit
 ```
 
@@ -76,7 +61,7 @@ streamlit run Tracking.py
 3. Adding new person to database
 ![Adding new person to database](assets/adding.png)
 
-4. Deployed app on Streamlit Cloud. [Click here](https://datct00-face-recognition-app-using-streamlit-tracking-sel9ym.streamlit.app/) to watch a demo of the app.
+4. Deploy app on Streamlit Cloud.
 
 ## Contact
-If you have any questions, feel free to contact me via email: `chungtiendat8102000@gmail.com`
+If you have any questions, feel free to contact me via email: `guptasidarath@gmail.com`
